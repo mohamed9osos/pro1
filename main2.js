@@ -5,7 +5,7 @@ let imgChangeHover = document.querySelector('.imgChangeHover')
 
 img.addEventListener("click", () => {
   console.log("img");
-  window.open("http://127.0.0.1:5500/two/index.html", "_blank", "");
+  window.open("https://mohamed9osos.github.io/pro2/", "_blank", "");
   // window.open(
   //   "file:///C:/Users/Mohamed/Desktop/NTN-news/project%20important+9/two/index.html",
   //   "_blank",
@@ -23,3 +23,4 @@ btn1.addEventListener("click", () => {
 // btn
 
 console.log(btn1);
+
